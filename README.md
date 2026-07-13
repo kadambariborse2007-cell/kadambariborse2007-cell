@@ -11,9 +11,8 @@
 ![BSc Computer Science](https://img.shields.io/badge/BSc-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadambari-borse-90829b404/)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kadambariborse2007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kadambariborse2007-cell)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kadambariborse2007-cell&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
@@ -205,23 +204,13 @@ Working across CVE analysis, penetration testing, and security documentation as 
 
 ### ⟡ Certifications
 
-**AWS**
+**IBM SkillsBuild**
 <br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-**Oracle**
+[![Cloud Computing Fundamentals](https://img.shields.io/badge/Cloud%20Computing%20Fundamentals-1F70C1?style=flat-square&logo=ibm&logoColor=white)](https://www.credly.com/badges/d4ec8162-7ba6-4c4e-9769-5ec54c290e84)
 <br>
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+*Issued May 9, 2025 — [verify on Credly](https://www.credly.com/badges/d4ec8162-7ba6-4c4e-9769-5ec54c290e84)*
 
-**NPTEL**
-<br>
-![NPTEL](https://img.shields.io/badge/NPTEL-Programming%20with%20Generative%20AI-blueviolet?style=flat-square)
-
-**Cisco**
-<br>
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-*(Add specific certification titles/links as earned — placeholders shown above by provider.)*
+*(More certifications will be added here as earned.)*
 
 ---
 
@@ -311,10 +300,9 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kadambariborse2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadambari-borse-90829b404/)
 [![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kadambariborse2007-cell)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
